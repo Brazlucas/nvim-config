@@ -14,7 +14,7 @@ local header = [[
 ]]
 
 return {
-  { "LazyVim/LazyVim", opts = { colorscheme = "habamax" } },
+  { "LazyVim/LazyVim", opts = { colorscheme = "wildcharm" } },
 
   {
     "folke/snacks.nvim",
